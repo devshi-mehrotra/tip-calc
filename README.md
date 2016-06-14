@@ -1,1 +1,2 @@
 # tip-calc
+Devshi Mehrotra
